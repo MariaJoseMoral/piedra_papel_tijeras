@@ -93,10 +93,10 @@ Tras cada ronda o partida, se puede trabajar:
 ---
 
 ## ✨ Proyección futuraoyecto
-	•	Añadir registro de estrategias usadas.
-	•	Incorporar reflexión guiada automática.
-	•	Adaptar el juego a contextos educativos, terapéuticos o de dinamización grupal.
-	•	Visualizar patrones de afrontamiento.
+- Añadir registro de estrategias usadas.
+- Incorporar reflexión guiada automática.
+- Adaptar el juego a contextos educativos, terapéuticos o de dinamización grupal.
+- Visualizar patrones de afrontamiento.
 
 ---
 
