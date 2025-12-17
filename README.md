@@ -92,8 +92,9 @@ Tras cada ronda o partida, se puede trabajar:
 
 ---
 
-## ✨ Proyección futuraoyecto
+## ✨ Proyección futura
 - Añadir registro de estrategias usadas.
+- Incrementar opciones: piedra, papel, tijera, lagarto, spock.
 - Incorporar reflexión guiada automática.
 - Adaptar el juego a contextos educativos, terapéuticos o de dinamización grupal.
 - Visualizar patrones de afrontamiento.
